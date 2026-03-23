@@ -14,6 +14,15 @@
 
 ---
 
+### 💼 Featured Projects
+
+- 🏥 **[RehabGuard API](https://github.com/davidvalades/rehab-api-core)** Una API RESTful robusta orientada a la salud (HealthTech). Construida con **FastAPI** y **Python**, implementando validación estricta de datos médicos y principios de Clean Architecture.
+- 🚀 **[Hybrid Distributed Homelab](https://github.com/davidvalades/distributed-homelab-infra)**
+  Arquitectura de sistemas físicos y redes. Despliegue de servicios mediante **Docker** y **Linux**, utilizando MergerFS para unificar el almacenamiento entre una Raspberry Pi 5 y un servidor NUCBox M7.
+- 🦵 **[Rodihab Landing Page](https://github.com/davidvalades/Landing-rodihab)** Frontend moderno y optimizado para SEO. Animaciones fluidas "Scrollytelling" implementadas puramente con **HTML5 y CSS3** (Scroll-driven animations), demostrando dominio visual sin depender de librerías de JS.
+
+---
+
 ### 📫 Contact
 
 - 📧 Email: **davidvaladesnavarro@gmail.com**
@@ -29,9 +38,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
