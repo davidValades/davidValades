@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm David Valadés</h1>
-<h3 align="center">Backend-focused Developer | Cybersecurity learner | 10 years professional experience outside tech</h3>
+<h3 align="center">Backend & Full Stack Developer | HealthTech Specialist | 10+ years in Healthcare ➡️ Software Engineering</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **Full Stack projects with a strong focus on backend systems and clean architecture**
-- 🌱 I’m currently learning **backend development, system design and cybersecurity fundamentals**
-- 👯 I’m looking to collaborate on **backend projects, APIs or security-related applications**
-- 🤝 I’m looking for help with **cybersecurity best practices and real-world implementation**
-- 💬 Ask me about **backend development, APIs or transitioning into tech**
-- ⚡ Fun fact: **I transitioned into tech after 10+ years in healthcare and sports science**
+- 🔭 I’m currently building RehabGuard API, a secure SaaS platform for clinical management using FastAPI & Clean Architecture.
+
+- 🌱 I’m currently deepening my knowledge in Backend Architecture (Java/Python), System Design, and Cybersecurity.
+
+- 🏥 Domain Knowledge: Leveraging 10+ years in Healthcare and Sports Science to build software with a deep understanding of user needs, sensitive data handling (RBAC), and clinical logic.
+
+- ⚡ Fun fact: I manage a Hybrid Distributed Homelab just for fun (and to learn Docker, Linux, and networking!).
 
 ---
 
 ### 💼 Featured Projects
 
-- 🏥 **[RehabGuard API](https://github.com/davidvalades/rehab-api-core)** Una API RESTful robusta orientada a la salud (HealthTech). Construida con **FastAPI** y **Python**, implementando validación estricta de datos médicos y principios de Clean Architecture.
-- 🚀 **[Hybrid Distributed Homelab](https://github.com/davidvalades/distributed-homelab-infra)**
-  Arquitectura de sistemas físicos y redes. Despliegue de servicios mediante **Docker** y **Linux**, utilizando MergerFS para unificar el almacenamiento entre una Raspberry Pi 5 y un servidor NUCBox M7.
-- 🦵 **[Rodihab Landing Page](https://github.com/davidvalades/Landing-rodihab)** Frontend moderno y optimizado para SEO. Animaciones fluidas "Scrollytelling" implementadas puramente con **HTML5 y CSS3** (Scroll-driven animations), demostrando dominio visual sin depender de librerías de JS.
+- 🏥 **[RehabGuard API](https://github.com/davidvalades/rehab-api-core)** A robust RESTful API oriented towards HealthTech. Built with **FastAPI** and **Python**, implementing strict medical data validation and Clean Architecture principles.
+- 🚀 **[Hybrid Distributed Homelab](https://github.com/davidvalades/distributed-homelab-infra)** Physical systems and network architecture. Service deployment using **Docker** and **Linux**, utilizing MergerFS to unify storage between a Raspberry Pi 5 and a NUCBox M7 server.
+- 🦵 **[Rodihab Landing Page](https://github.com/davidvalades/Landing-rodihab)** Modern and SEO-optimized frontend. Fluid "Scrollytelling" animations implemented purely with **HTML5 and CSS3** (Scroll-driven animations), demonstrating visual mastery without relying on JS libraries.
 
 ---
 
@@ -33,18 +33,30 @@
 
 ### 🛠️ Tech Stack
 
+**Backend & Database**
+
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+</p>
+
+**Frontend**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+</p>
+
+**DevOps & Tools**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 </p>
 
 ---
