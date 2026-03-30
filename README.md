@@ -26,7 +26,7 @@
 ### 📫 Contact
 
 - 📧 Email: **davidvaladesnavarro@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/david-valadés-navarro-32462988
+- 💼 LinkedIn: www.linkedin.com/in/davidValades
 - 💻 GitHub: https://github.com/davidvalades
 
 ---
