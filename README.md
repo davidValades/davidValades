@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Valadés</h1>
-<h3 align="center">Backend-focused Developer | Cybersecurity learner | 10+ years professional experience outside tech</h3>
+<h3 align="center">Backend-focused Developer | Cybersecurity learner | 10 years professional experience outside tech</h3>
 
 ---
 
