@@ -41,6 +41,9 @@
   <a href="mailto:davidvaladesnavarro@gmail.com">
     <img src="https://img.shields.io/badge/Email-davidvaladesnavarro%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
+  
+<p>
   <a href="https://www.linkedin.com/in/davidValades">
     <img src="https://img.shields.io/badge/LinkedIn-David_Valadés-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
