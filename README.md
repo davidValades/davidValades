@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+%26+Full+Stack+Developer;HealthTech+Specialist;10%2B+years+in+Healthcare+➡️+Software;&center=true&width=500&height=50&color=2ea44f&vCenter=true&size=22">
 </p>
-<h3 align="center">Backend & Full Stack Developer | HealthTech Specialist | 10+ years in Healthcare ➡️ Software Engineering</h3>
 
 ---
 
