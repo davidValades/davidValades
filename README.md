@@ -64,7 +64,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidvalades&langs_count=8&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davidvalades&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidvalades&theme=vision-friendly-dark" alt="GitHub Streak" />
 </p>
 
