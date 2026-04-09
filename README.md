@@ -31,6 +31,9 @@
   <a href="https://github.com/davidvalades/Landing-rodihab">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=davidvalades&repo=Landing-rodihab&theme=vision-friendly-dark" alt="Rodihab" />
   </a>
+  <a href="https://github.com/davidValades/movie-catalog">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=davidvalades&repo=movie-catalog&theme=vision-friendly-dark" alt="Movie Catalog" />
+  </a>
 </p>
 
 ---
