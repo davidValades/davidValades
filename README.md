@@ -65,6 +65,9 @@
 **DevOps & Tools** <br>
 <img src="https://skillicons.dev/icons?i=linux,docker,git&theme=dark" alt="DevOps Stack" />
 
+**Mobile Development** <br>
+<img src="https://skillicons.dev/icons?i=androidstudio,java&theme=dark" alt="Mobile Stack" />
+
 ---
 
 ### 📊 GitHub Stats
