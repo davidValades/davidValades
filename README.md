@@ -54,6 +54,30 @@
 
 ---
 
+### 🎓 Education & Certifications
+
+<p align="left">
+  <a href="https://digitechfp.com/">
+    <img src="https://img.shields.io/badge/DAM_Dual-DigitechFP-E44D26?style=for-the-badge&logo=androidstudio&logoColor=white" alt="DAM Dual DigitechFP" />
+  </a>
+  <a href="https://github.com/davidValades/master-fullstack-conquerblocks">
+    <img src="https://img.shields.io/badge/Master_Full_Stack-ConquerBlocks-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Master Full Stack" />
+  </a>
+  <a href="https://www.credly.com/badges/733a556d-04bd-4fc6-87b9-9a6171cab604">
+    <img src="https://img.shields.io/badge/Python_Essentials-Cisco-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Cisco Python" />
+  </a>
+  <a href="https://www.credly.com/badges/5808574f-d19b-4a74-aeee-9f0e77e8cf97">
+    <img src="https://img.shields.io/badge/Cybersecurity-Cisco-005073?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity" />
+  </a>
+</p>
+
+- **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) Dual** | DigitechFP (2025 - Actualidad)
+- **Master en Desarrollo Web Full Stack** | ConquerBlocks (En curso)
+- **Cisco Certified: Python Essentials 1** | Networking Academy
+- **Cisco Certified: Introduction to Cybersecurity** | Networking Academy
+
+---
+
 ### 🛠️ Tech Stack
 
 **Backend & Database** <br>
