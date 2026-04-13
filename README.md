@@ -17,6 +17,10 @@
 
 - 📚 Continuous Learning: Documenting my journey and progress in the [Full Stack Web Development Master](https://github.com/davidValades/master-fullstack-conquerblocks), mastering everything from low-level computing to advanced backend architecture.
 
+- 🤖 **AI-Assisted Development:** Integrating advanced workflows with Claude Code and MCP (Model Context Protocol) servers to optimize system architecture and automate development processes.
+
+- 🛡️ **Continuous Training:** Actively pursuing certifications in Cybersecurity (Cisco), Cloud (Google), and AI to build secure and scalable Full Stack solutions.
+
 ---
 
 ### 💼 Featured Projects
