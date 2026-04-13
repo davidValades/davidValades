@@ -15,15 +15,15 @@
 
 - ⚡ Fun fact: I manage a Hybrid Distributed Homelab just for fun (and to learn Docker, Linux, and networking!).
 
-- 📚 Continuous Learning: Documenting my journey and progress in the [Full Stack Web Development Master](https://github.com/davidValades/master-fullstack-conquerblocks), mastering everything from low-level computing to advanced backend architecture.
+- 🎓 **Education & Continuous Learning:** Currently pursuing a Higher National Diploma in Cross-Platform App Development (DAM Dual at DigitechFP) while documenting my journey in the [Full Stack Web Development Master](https://github.com/davidValades/master-fullstack-conquerblocks).
+
+- 🛡️ **Cybersecurity & AI Path:** Actively expanding my expertise through my [Professional Learning Path](https://github.com/davidValades/professional-learning-path), acquiring certifications in Cybersecurity (Cisco), Cloud, and AI (Anthropic).
 
 - 🤖 **AI-Assisted Development:** Integrating advanced workflows with Claude Code and MCP (Model Context Protocol) servers to optimize system architecture and automate development processes.
 
-- 🛡️ **Continuous Training:** Actively pursuing certifications in Cybersecurity (Cisco), Cloud (Google), and AI to build secure and scalable Full Stack solutions.
-
 ---
 
-### 💼 Featured Projects
+### 💼 Featured Projects & Learning Hubs
 
 <p align="center">
   <a href="https://github.com/davidvalades/rehab-api-core">
@@ -35,8 +35,30 @@
   <a href="https://github.com/davidvalades/Landing-rodihab">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=davidvalades&repo=Landing-rodihab&theme=vision-friendly-dark" alt="Rodihab" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/davidValades/master-fullstack-conquerblocks">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=davidvalades&repo=master-fullstack-conquerblocks&theme=vision-friendly-dark" alt="Master Full Stack" />
+  </a>
+  <a href="https://github.com/davidValades/professional-learning-path">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=davidvalades&repo=professional-learning-path&theme=vision-friendly-dark" alt="Professional Learning Path" />
+  </a>
   <a href="https://github.com/davidValades/movie-catalog">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=davidvalades&repo=movie-catalog&theme=vision-friendly-dark" alt="Movie Catalog" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=davidvalades&repo=movie-catalog&theme=vision-friendly-dark" alt="Movie Catalog" />
+  </a>
+</p>
+
+---
+
+### 📚 Knowledge & Learning Hubs
+
+<p align="center">
+  <a href="https://github.com/davidValades/master-fullstack-conquerblocks">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=davidvalades&repo=master-fullstack-conquerblocks&theme=vision-friendly-dark" alt="Master Full Stack" />
+  </a>
+  <a href="https://github.com/davidValades/professional-learning-path">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=davidvalades&repo=professional-learning-path&theme=vision-friendly-dark" alt="Professional Learning Path" />
   </a>
 </p>
 
@@ -55,30 +77,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-David_Valadés-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
----
-
-### 🎓 Education & Certifications
-
-<p align="left">
-  <a href="https://digitechfp.com/">
-    <img src="https://img.shields.io/badge/DAM_Dual-DigitechFP-E44D26?style=for-the-badge&logo=androidstudio&logoColor=white" alt="DAM Dual DigitechFP" />
-  </a>
-  <a href="https://github.com/davidValades/master-fullstack-conquerblocks">
-    <img src="https://img.shields.io/badge/Master_Full_Stack-ConquerBlocks-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Master Full Stack" />
-  </a>
-  <a href="https://www.credly.com/badges/733a556d-04bd-4fc6-87b9-9a6171cab604">
-    <img src="https://img.shields.io/badge/Python_Essentials-Cisco-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Cisco Python" />
-  </a>
-  <a href="https://www.credly.com/badges/5808574f-d19b-4a74-aeee-9f0e77e8cf97">
-    <img src="https://img.shields.io/badge/Cybersecurity-Cisco-005073?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity" />
-  </a>
-</p>
-
-- **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) Dual** | DigitechFP (2025 - Actualidad)
-- **Master en Desarrollo Web Full Stack** | ConquerBlocks (En curso)
-- **Cisco Certified: Python Essentials 1** | Networking Academy
-- **Cisco Certified: Introduction to Cybersecurity** | Networking Academy
 
 ---
 
