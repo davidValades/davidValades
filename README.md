@@ -15,9 +15,11 @@
 
 - ⚡ Fun fact: I manage a Hybrid Distributed Homelab just for fun (and to learn Docker, Linux, and networking!).
 
-- 🎓 **Education & Continuous Learning:** Currently pursuing a Higher National Diploma in Cross-Platform App Development (DAM Dual at DigitechFP) while documenting my journey in the [Full Stack Web Development Master](https://github.com/davidValades/master-fullstack-conquerblocks).
+- 🎓 **Education & Continuous Learning:** Currently pursuing a Higher National Diploma in Cross-Platform App Development (DAM Dual). 
 
-- 🛡️ **Cybersecurity & AI Path:** Actively expanding my expertise through my [Professional Learning Path](https://github.com/davidValades/professional-learning-path), acquiring certifications in Cybersecurity (Cisco), Cloud, and AI (Anthropic).
+- 📚 **Master Full Stack Development:** Documenting my comprehensive learning roadmap from computer science fundamentals to advanced system architecture, mastering technologies like **React, Java, Python, Go, and DevOps** in my [ConquerBlocks evolutionary portfolio](https://github.com/davidValades/master-fullstack-conquerblocks).
+
+- 🛡️ **Cybersecurity & AI Path:** Expanding my technical stack in my [Professional Learning Path](https://github.com/davidValades/professional-learning-path) with **Cisco (Cybersecurity/Python)** certifications and **Anthropic AI** specialization.
 
 - 🤖 **AI-Assisted Development:** Integrating advanced workflows with Claude Code and MCP (Model Context Protocol) servers to optimize system architecture and automate development processes.
 
@@ -46,19 +48,6 @@
   </a>
   <a href="https://github.com/davidValades/movie-catalog">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=davidvalades&repo=movie-catalog&theme=vision-friendly-dark" alt="Movie Catalog" />
-  </a>
-</p>
-
----
-
-### 📚 Knowledge & Learning Hubs
-
-<p align="center">
-  <a href="https://github.com/davidValades/master-fullstack-conquerblocks">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=davidvalades&repo=master-fullstack-conquerblocks&theme=vision-friendly-dark" alt="Master Full Stack" />
-  </a>
-  <a href="https://github.com/davidValades/professional-learning-path">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=davidvalades&repo=professional-learning-path&theme=vision-friendly-dark" alt="Professional Learning Path" />
   </a>
 </p>
 
