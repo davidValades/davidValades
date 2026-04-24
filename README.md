@@ -12,47 +12,51 @@
 
 ## 🚀 About Me
 
-Backend Engineer specialized in **secure systems, API architecture, and HealthTech solutions**.
+Backend Engineer specialized in **secure systems, API architecture, and HealthTech solutions**. I specialize in transforming complex clinical requirements into high-performance, secure software.
 
-- 🏥 **Domain Knowledge:** 10+ years in Healthcare & Sports Science.
-- 💻 **Transition:** Successfully pivoting into Software Engineering with a focus on clean architecture.
-- 🔐 **Core Focus:** Role-Based Access Control (RBAC), medical data security (GDPR), and real-world system design.
+- 🏥 **Domain Expertise:** 10+ years in Healthcare & Sports Science. I understand the industry's specific needs for data precision and security.
+- 💻 **Engineering Mindset:** Transitioning from health professional to software architect through rigorous official training and high-performance specializations.
+- 🔐 **Core Focus:** Multi-tenant SaaS architectures, RBAC (Role-Based Access Control), and GDPR-compliant medical data systems.
 
 ---
 
 ## 🔥 Featured Work (Core Systems)
 
-These are my independent projects, where I apply real-world software architecture, security, and deployment:
+These are my flagship projects where I act as Lead Architect and System Administrator:
 
-- 🏥 **[RehabGuard API](https://github.com/davidvalades/rehab-api-core):** Backend engine (B2B SaaS) for clinical management. Implements Multi-tenant isolation, granular RBAC via JWT, and Soft Deletes for medical data integrity.
-  - **Tech:** Python, FastAPI, MySQL, SQLAlchemy.
-- ☁️ **[Distributed Homelab](https://github.com/davidvalades/distributed-homelab-infra):** Hybrid domestic infrastructure (RPi 5 + NUCBox). Distributed storage management with MergerFS and automated services via Docker.
-  - **Tech:** Linux, Docker, Samba, Networking.
-- 🗄️ **[SQL Learning Path](https://github.com/davidValades/sql-learning-path):** A comprehensive "Zero to DBA" learning path. Includes practical ER modeling and query optimization projects.
-  - **Tech:** Oracle SQL, PL/SQL.
+- 🏥 **[RehabGuard API](https://github.com/davidvalades/rehab-api-core):** A B2B SaaS Backend engine for physical therapy clinics.
+  - _Key Features:_ Multi-tenant database isolation, JWT-based security, and Soft Deletes for medical record integrity.
+  - **Tech:** Python, FastAPI, MySQL, SQLAlchemy, Pydantic.
+- ☁️ **[Distributed Homelab](https://github.com/davidvalades/distributed-homelab-infra):** Hybrid infrastructure (RPi 5 + NUCBox) focused on system administration and workload separation.
+  - _Key Features:_ Distributed storage (MergerFS), Samba networking, and Docker-orchestrated services.
+  - **Tech:** Linux, Docker, Bash Scripting, Networking.
 
 ---
 
-## 📚 Academic Learning Ecosystem
+## 🎓 High-Performance Academic Ecosystem
 
-My technical training is systematically documented. Inside each repository, you will find syllabuses, notes, and the **Featured Projects** (such as _Rodihab Landing_ or _Movie Catalog_) developed at each stage:
+My technical training is organized to provide both a deep theoretical base and expert-level practical agility:
 
-- 🎓 **[Vocational Training DAM DUAL | Digitech](https://github.com/davidValades/digitech-learning):** All the code and technical challenges from my official Multiplatform Application Development degree.
-- 🚀 **[Full Stack Master | ConquerBlocks](https://github.com/davidValades/master-fullstack-conquerblocks):** Intensive specialization in modern web development. Includes Pixel-Perfect layout challenges and scalable architectures.
-- 🛡️ **[Professional Learning Path](https://github.com/davidValades/professional-learning-path):** Certifications and hands-on labs in Cybersecurity (Cisco), Cloud Computing (GCP/Azure), and applied AI.
+- 🏛️ **[Official Degree: DAM DUAL | Digitech](https://github.com/davidValades/digitech-learning):** Official State Degree in Multiplatform Application Development.
+  - _Advanced Modules:_ Cybersecurity, Data Access (Java/SQL), Business Management Systems (ERP/CRM), and Digitalization.
+  - **Foco:** Fundamentos sólidos de ingeniería y desarrollo seguro.
+- 🚀 **[Full Stack Master | ConquerBlocks](https://github.com/davidValades/master-fullstack-conquerblocks):** High-performance specialization program with 1:1 mentorship and a focus on industry-ready skills.
+  - _Portfolio:_ +10 real-world projects including B2B Marketplaces and Real-time SaaS dashboards.
+  - **Tech:** React, Next.js, Node.js, TypeScript, PostgreSQL, Docker.
+- 🛡️ **[Professional Learning Path](https://github.com/davidValades/professional-learning-path):** Ongoing specialization in Cloud Architectures (GCP/Azure) and AI implementation (Anthropic/MCP).
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Backend & Databases** <br>
-<img src="https://skillicons.dev/icons?i=py,fastapi,java,mysql,oracle&theme=dark" alt="Backend Stack" />
+<img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,java,mysql,postgres,oracle&theme=dark" alt="Backend Stack" />
 
-**Frontend** <br>
-<img src="https://skillicons.dev/icons?i=html,css,js,sass,react&theme=dark" alt="Frontend Stack" />
+**Frontend & Styles** <br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass&theme=dark" alt="Frontend Stack" />
 
-**DevOps & Systems** <br>
-<img src="https://skillicons.dev/icons?i=linux,docker,git,bash,raspberrypi&theme=dark" alt="DevOps Stack" />
+**DevOps & Tools** <br>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,bash,raspberrypi,figma&theme=dark" alt="DevOps Stack" />
 
 ---
 
@@ -80,5 +84,5 @@ My technical training is systematically documented. Inside each repository, you 
 </p>
 
 <p align="center">
-  <i>⭐ From healthcare to software — building systems that matter.</i>
+  <i>⭐ From clinical precision to code excellence — Building systems that matter.</i>
 </p>
